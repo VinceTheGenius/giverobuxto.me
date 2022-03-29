@@ -25,6 +25,10 @@
 	font-weight: bold
 }
 
+.copy {
+	margin-bottom: 1.3rem;
+}
+
 @-webkit-keyframes spin {
 	0% {}
 	100% {
