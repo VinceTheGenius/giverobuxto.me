@@ -1,9 +1,9 @@
 # Robux Generator
 
-This app is a (fake) robux generator for Roblox players ¯\_(ツ)_/¯
+This app is a (fake) robux generator for Roblox players (v2) (¬‿¬ )
 
 ## Contributing
-Thanks to Vixen, and also Antarctus for their help
+Thanks to me owo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
